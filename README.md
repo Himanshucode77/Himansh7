@@ -11,10 +11,3 @@
 
 - 📫 How to reach me **reach.himansh@gmail.com**
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishal0001&show_icons=true&locale=en&layout=compact" alt="bishal0001" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishal0001&show_icons=true&locale=en" alt="bishal0001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishal0001&" alt="bishal0001" /></p>
