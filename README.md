@@ -11,13 +11,6 @@
 
 - 📫 How to reach me **reach.himansh@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bishal-roy-92a6ab214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishal-roy-92a6ab214" height="30" width="40" /></a>
-<a href="https://instagram.com/roy_bishal23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roy_bishal23" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bishal00001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bishal00001" height="30" width="40" /></a>
-</p>
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishal0001&show_icons=true&locale=en&layout=compact" alt="bishal0001" /></p>
