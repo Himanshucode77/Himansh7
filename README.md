@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flask, AWS, PyTorch, TensorFlow,**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bishal0001/Project_Portfolio](https://github.com/Bishal0001/Project_Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/Himanshucode77/Case_Study](https://github.com/Himanshucode77/Case_Study)
 
 - 💬 Ask me about **Python, MySQL, Classical ML**
 
